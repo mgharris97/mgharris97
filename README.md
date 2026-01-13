@@ -4,9 +4,9 @@ A Computer Science student in Riga
 
 I enjoy solving problems through technology, creating art through music and [photography](https://unsplash.com/@mharris97), and staying active enough that my Garmin keeps quiet
 
-- 🛠️ I learn best by doing
-- 👨‍💻 I am most comofrtable with Java and Python
-- 👾 Currently exploring backend development and automation
+- I learn best by doing
+- I am most comofrtable with Java and Python
+- I am currently exploring backend development and automation
 
 Current Tech Stack
 <p align="left">
