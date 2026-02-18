@@ -4,7 +4,7 @@ A Computer Science student in Riga
 
 I enjoy solving problems through technology, creating art through music and [photography](https://unsplash.com/@mharris97), and staying active enough that my Garmin keeps quiet
 
-- I learn best by doing
+- I learn best by trying, failing, getting frustrated, and eventually trying again
 - I am most comofrtable with Java and Python
 - I am currently exploring backend development and automation
 
