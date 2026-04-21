@@ -22,7 +22,13 @@ Current Tech Stack
 
 Feel free to peruse my projects to see what I've been up to. 
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/mharris97)
+Where else to find me:
+<p>
+<a href="https://www.linkedin.com/in/mharris97" style="text-decoration:none"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://unsplash.com/@mharris97" style="text-decoration:none"><img src="https://img.shields.io/badge/Unsplash-000000?style=flat&logo=unsplash&logoColor=white" /></a>
+</p>
+
+
 
 
 
