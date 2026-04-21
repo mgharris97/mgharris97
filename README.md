@@ -5,7 +5,7 @@ A Computer Science student in Riga
 I enjoy solving problems through technology, creating art through music and [photography](https://unsplash.com/@mharris97), and staying active enough that my Garmin keeps quiet
 
 - I learn best by trying, failing, getting frustrated, and eventually trying again
-- I am most comofrtable with Java and Python
+- I am most comfortable with Java and Python
 - I am currently exploring backend development and automation
 
 Current Tech Stack
@@ -13,14 +13,17 @@ Current Tech Stack
   <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=007396" />
   <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/Go-000000?style=flat&logo=go&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=009688" />
-
 </p>
+
+Feel free to peruse my projects to see what I've been up to. 
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/mharris97)
+
 
 
 
