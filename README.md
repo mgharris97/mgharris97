@@ -18,12 +18,6 @@ Current Tech Stack
   <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=flat&logo=springboot&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/Spring%20Security-000000?style=flat&logo=springsecurity&logoColor=6DB33F" />
-  <img src="https://img.shields.io/badge/JUnit-000000?style=flat&logo=junit5&logoColor=25A162" />
-  <img src="https://img.shields.io/badge/Hibernate-000000?style=flat&logo=hibernate&logoColor=59666C" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/Maven-000000?style=flat&logo=apachemaven&logoColor=C71A36" />
 </p>
 
 Feel free to peruse my projects to see what I've been up to. 
